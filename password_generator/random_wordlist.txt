@@ -1,8 +1,8 @@
-one
-two
-banana
-aple
-pear
-vifte
-glass
-pimple
+One
+Two
+Banana
+Aple
+Pear
+Vifte
+Glass
+Pimpl

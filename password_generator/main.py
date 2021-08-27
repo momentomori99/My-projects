@@ -1,14 +1,7 @@
 from bone import Create_pass
 
-"""
-inst = Create_pass()
-result1 = inst.random()
 
-word = input("whats the word:")
-result2 = inst.own_word(word)
-print(result2)
 
-"""
 
 inst = Create_pass()
 random = input("Do you want to use your own word in your password? [y/n]:")
